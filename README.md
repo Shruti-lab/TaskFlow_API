@@ -6,6 +6,7 @@
 The system emphasizes **robust design principles**, **input validation**, and **scalability**, making it suitable for integration with web, mobile, or automation clients.
 
 ---
+https://github.com/user-attachments/assets/78d4eed2-8edf-43ed-8b78-b70b9fb48a65
 
 ### 🎯 Objectives
 
